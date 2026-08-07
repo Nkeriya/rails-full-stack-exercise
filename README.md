@@ -12,11 +12,11 @@ This is your own personal fork of a little internal app which is used by our Com
 
 Our Operations team also uses this app to keep track of the upcoming Payments that will be made to successful Applicants, however this is proving problematic as the number of applicants increases.
 
-We are hoping to receive 3 separate pull requests to your forked repository for each of the following:
+We are hoping to receive 3 separate commits in saperate branch from main for each of the following:
 
 1. There is a bug in the Applicants index page, the Project title is the same for every Applicant, this needs to be fixed. Once this is fixed, we are interested to know your thoughts on how this bug could have been avoided?
-2. The Community Success team have asked for a feature to be able to attach a comment to every change in status they make to an Applicant, noting the reason for the status change. The complete history of these changes and reasons should be available in the app for future review.
-3. The Operations team need the Payments page to be more performant as they are receiving 504 timeouts when accessing this in our production environment sometimes. Please describe where you think the issue(s) lie and provide your thoughts on how they might be resolved. If time permits, implement your solution (or implement just enough to prove your ideas).
+2. The Operations team need the Payments page to be more performant as they are receiving 504 timeouts when accessing this in our production environment sometimes. Please describe where you think the issue(s) lie and provide your thoughts on how they might be resolved. If time permits, implement your solution (or implement just enough to prove your ideas).
+3. The Community Success team have asked for a feature to be able to attach a comment to every change in status they make to an Applicant, noting the reason for the status change. The complete history of these changes and reasons should be available in the app for future review.
 
 ## Some extra notes:
 
